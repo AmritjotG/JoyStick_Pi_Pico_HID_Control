@@ -1,4 +1,7 @@
 # JoyStick_Pi_Pico_HID_Control
+Utilized a raspberry pi pico to interface with any computer such that a joystick could be used as an input device replacement for a mouse. The code is based in Circuit Python, a subset of python that can make use of the HID Library by AdaFruit, this library is what allows for the input information to be turned into if statements and outputted as the relevant movements in the computer
+
+
 
 
 import time
