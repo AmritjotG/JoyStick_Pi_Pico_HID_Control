@@ -10,5 +10,5 @@ The process of building a product is an essential part of any engineering projec
 Technical knowledge was another significant skill that was gained through this project. SolidWorks was used in the physical design where ergonomics and ease of use were a priority. The electronics and software principles used to create the final product were based on the Raspberry Pi Pico architecture, where Micro-Python was used.
  
 Finally, the most important lesson learned from this project was prioritizing accessibility. The team placed the needs of users with physical limitations at the forefront of the design process. This emphasis on accessibility required the team to take into account the unique challenges that these users face and to design a product that meets their needs. Overall, this project was an excellent opportunity to explore accessibility for users with physical limitations, and it taught the team valuable lessons in collaboration, iteration and refinement, and technical knowledge.
-![Screenshot 2023-06-14 160540](https://github.com/AmritjotG/JoyStick_Pi_Pico_HID_Control/assets/83626889/d7962931-6faf-4aa7-be34-b6aba67218a8)
+
 ![Screenshot 2023-06-14 160606](https://github.com/AmritjotG/JoyStick_Pi_Pico_HID_Control/assets/83626889/37940539-d6be-439f-90e4-15b810f0f143)
